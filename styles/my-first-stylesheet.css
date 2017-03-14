@@ -1,0 +1,35 @@
+html { font-size: 16px }
+
+  h2 {
+    color: green;
+    text-align: center;
+  }
+
+  .amendment-title:hover {
+    color: red;
+  }
+
+  .amendment-body {
+    text-align: center;
+  }
+
+  .documentary-history {
+    background-color: yellow;
+  }
+
+  .amendment-title {
+    background-color: yellow;
+  }
+
+  [class] {
+    color: orange;
+  }
+
+  .documentary-history p {
+    width: 50%;
+  }
+
+
+  #bill-of-rights {
+    font-style: italic;
+  }
